@@ -2,6 +2,7 @@
   "name": "tcats-ticketing",
   "version": "1.0.0",
   "description": "티켓츠 QR 발권 시스템 - Joyful Time, Right for You.",
+  "type": "module",
   "private": true,
   "scripts": {
     "dev": "vite",
